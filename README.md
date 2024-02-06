@@ -19,7 +19,7 @@ This bot serves as verification bot for email verification and automatic assignm
 	- Privileged Gateway Intents: "message content intent" and "server members intent"
 	- Copy your bot's token
 
-2. Put all the data in the .env file, the IDs are accessible when switching to discords developer mode
+2. Put all the data in the example.env file, the IDs are accessible when switching to discords developer mode. Rename to .env afterwards. Do not make your private information public!
 
 	TOKEN="the token of your bot from the discord developer website"
 	BOT_PASSWORD="password for the email account"  
