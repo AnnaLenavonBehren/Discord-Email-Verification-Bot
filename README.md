@@ -26,7 +26,7 @@ This bot serves as verification bot for email verification and automatic assignm
 	SMTP_SERVER=""  
 	SMTP_PORT=""  
 	BOT_EMAIL="email address"  
-	DB="desired name of the database, that stores the user-id, username, emial, token for verification and verified status"  
+	DB="desired name of the database, that stores the user-id, username, email, token for verification and verified status"  
 	GUILD_ID="id of the server"  
 	PUBLIC_CHANNEL_ID=""  
 	AUTH_CHANNEL_ID=""  
